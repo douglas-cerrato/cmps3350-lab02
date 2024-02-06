@@ -1,3 +1,3 @@
 I have interacted and used GitHub through their Github Desktop application, but never with Git
 through terminal. I enjoy learning what we are learning so far with Git as it starts to put 
-the pieces together from what I don't know to what I kind of know
+the pieces together from what I don't know to what I kind of knowChange from new_branch
